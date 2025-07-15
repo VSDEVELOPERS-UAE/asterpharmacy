@@ -1,0 +1,10 @@
+{
+  "SN10001": {
+    "group": "Keyboard",
+    "location": "Warehouse"
+  },
+  "SN10002": {
+    "group": "Mouse",
+    "location": "On Site"
+  }
+}
